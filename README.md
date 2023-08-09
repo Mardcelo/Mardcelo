@@ -13,14 +13,6 @@ Mardcelo is no one, He might not exist, He might exist
 - Mathematics
 - Fuzzing
 
-## Certifications
-
-| Name | When | 
-| -------- | -------- | 
-| OSWP | 2024 (Unfinished) | 
-| OSED | 2024 (Unfinished) | 
-| OSEE | 2024 (Planned) | 
-
 ## Mates 
 
 - [Snowcrash](https://github.com/snowcra5h) 
