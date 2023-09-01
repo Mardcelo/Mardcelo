@@ -1,6 +1,6 @@
 # Mardcelo Kim
 
-![Screenshot](screenshot.png)
+![Screenshot](F30vqV6WoAI33lm.jpg)
 
 ## Introduction
 
