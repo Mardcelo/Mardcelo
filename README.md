@@ -4,6 +4,8 @@
 
 Mardcelo is no one. He might not exist, but He might exist, The only information you have is that he is half-drunk even though he is not, and he is a Korean nerd. 
 
+## "I Shall DIe" 
+
 ## Research Areas 
 
 - Windows Kernel 
@@ -12,6 +14,7 @@ Mardcelo is no one. He might not exist, but He might exist, The only information
 - Quantum Physics 
 - Mathematics
 - Fuzzing
+- Hyper-V 
 
 ## Mates 
 
