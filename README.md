@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Mardcelo is no one. He might not exist, but He might exist, The only information you have is that he is half-drunk even though he is not, and he is a Korean nerd. 
+Mardcelo embodies the impermanence and mystery of life, like a fleeting illusion. Despite being labeled "half-drunk," his true nature remains hidden, a reminder that appearances can deceive. Mardcelo's existence shall be hidden
 
 ## "I Shall Die" 
 
@@ -21,6 +21,10 @@ Mardcelo is no one. He might not exist, but He might exist, The only information
 - Hyper-V
 - Machine Learning 
 
+## Quote 
+
+### "Fighting with yourself rather than winning the battle Winning is much more valuable. Even if you win the battle now, someday He may lose, but he who wins the fight against himself Because we win forever."
+
 ## Mates 
 
 - [Snowcrash](https://github.com/snowcra5h) 
@@ -30,7 +34,3 @@ Mardcelo is no one. He might not exist, but He might exist, The only information
 - [Niko](https://github.com/Exploitables/)
 - [tr3sp4ss3r](https://github.com/tr3sp4ss3rexe)
 - [Shelldon](https://github.com/Sh3lldon)
-
-## Quote 
-
-### "Fighting with yourself rather than winning the battle Winning is much more valuable. Even if you win the battle now, someday He may lose, but he who wins the fight against himself Because we win forever."
