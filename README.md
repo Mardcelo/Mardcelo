@@ -26,7 +26,7 @@ Mardcelo embodies the impermanence and mystery of life, like a fleeting illusion
 ### "Fighting with yourself rather than winning the battle Winning is much more valuable. Even if you win the battle now, someday He may lose, but he who wins the fight against himself Because we win forever."
 
 ## Mates 
-
+- [0xAanon](https://github.com/yesmanno) 
 - [Snowcrash](https://github.com/snowcra5h) 
 - [Nop](https://github.com/nop-tech) 
 - [Thorn](https://github.com/GuildedThorn)
