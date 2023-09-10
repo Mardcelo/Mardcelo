@@ -3,7 +3,7 @@
 ![Screenshot](F30vqV6WoAI33lm.jpg)
 
 ##### Banner by @xenotrip
-![](https://komarev.com/ghpvc/?username=Mardcelo!&color=green)
+![](https://komarev.com/ghpvc/?username=Mardcelo&color=green)
 ## Introduction
 
 Mardcelo embodies the impermanence and mystery of life, like a fleeting illusion. Despite being labeled "half-drunk," his true nature remains hidden, a reminder that appearances can deceive. Mardcelo's existence shall be hidden
