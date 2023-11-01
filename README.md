@@ -34,3 +34,4 @@ Mardcelo embodies the impermanence and mystery of life, like a fleeting illusion
 - [Niko](https://github.com/Exploitables/)
 - [tr3sp4ss3r](https://github.com/tr3sp4ss3rexe)
 - [Shelldon](https://github.com/Sh3lldon)
+- [nanaisu] (https://github.com/Sq00ky)
