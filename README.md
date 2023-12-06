@@ -1,14 +1,11 @@
-# Mardcelo Kim
+# Mardcelo 
 
-![Screenshot](F30vqV6WoAI33lm.jpg)
-
-##### Banner by @xenotrip
 ![](https://komarev.com/ghpvc/?username=Mardcelo&color=green)
 ## Introduction
 
-Mardcelo embodies the impermanence and mystery of life, like a fleeting illusion. Despite being labeled "half-drunk," his true nature remains hidden, a reminder that appearances can deceive. Mardcelo's existence shall be hidden
+Mardcelo drunk and wong
 
-## "I Shall Die" 
+## "Balls" 
 
 ## Research Areas 
 
@@ -37,3 +34,5 @@ Mardcelo embodies the impermanence and mystery of life, like a fleeting illusion
 - [nanaisu](https://github.com/Sq00ky/)
 - [Jord 🐸](https://github.com/iilegacyyii/)
 - [Szymex](https://github.com/szymex73/)
+- [Xephora](https://github.com/xephora/)
+- [Kozmer](https://github.com/kozmer/)
