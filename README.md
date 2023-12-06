@@ -15,7 +15,7 @@ Mardcelo drunk and wong
 - Quantum Physics 
 - Mathematics
 - Fuzzing
-- Hyper-V
+- Hypervisor 
 - Machine Learning 
 
 ## Quote 
