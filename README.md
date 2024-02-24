@@ -5,7 +5,7 @@
 
 I find bed bugs unlike gamozo 🐸🐸🐸
 
-I would like to thank my mentors @[Gamozolabs](https://github.com/gamozolabs), @[tandasat](https://github.com/tandasat)
+I would like to thank my mentors @[Gamozolabs](https://github.com/gamozolabs), @[Tandasat](https://github.com/tandasat)
 
 ## Quote 
 
