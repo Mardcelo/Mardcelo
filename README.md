@@ -3,20 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Mardcelo&color=green)
 ## Introduction
 
-Mardcelowong
-
-
-
-## Research Areas 
-
-- Windows Kernel 
-- Drivers 
-- Linux Kernel
-- Quantum Physics 
-- Mathematics
-- Fuzzing
-- Hypervisor 
-- Machine Learning 
+I find bed bugs unlike gamozo 🐸🐸🐸
 
 ## Quote 
 
