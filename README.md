@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Mardcelo&color=green)
 ## Introduction
 
-I find bed bugs unlike gamozo 🐸🐸🐸
+Average security researcher
 
 I would like to thank my mentors @[Gamozolabs](https://github.com/gamozolabs), @[Tandasat](https://github.com/tandasat)
 
