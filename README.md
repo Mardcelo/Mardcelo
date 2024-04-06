@@ -11,7 +11,10 @@ I would like to thank my mentors @[Gamozolabs](https://github.com/gamozolabs), @
 
 ##### "Fighting with yourself rather than winning the battle Winning is much more valuable. Even if you win the battle now, someday He may lose, but he who wins the fight against himself Because we win forever."
 
-## Mates 
+
+<details>
+  <summary>Mates</summary>
+
 - [0xAanon](https://github.com/yesmanno/) 
 - [Snowcrash](https://github.com/snowcra5h/) 
 - [Nop](https://github.com/nop-tech/) 
@@ -25,4 +28,6 @@ I would like to thank my mentors @[Gamozolabs](https://github.com/gamozolabs), @
 - [Szymex](https://github.com/szymex73/)
 - [Xephora](https://github.com/xephora/)
 - [Kozmer](https://github.com/kozmer/)
-- [Jazzzooo](https://github.com/jazzzooo/)
+- [Jazzzooo](https://github.com/jazzzooo/)  
+
+</details>
