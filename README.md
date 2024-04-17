@@ -9,7 +9,7 @@ I would like to thank my mentors @[Gamozolabs](https://github.com/gamozolabs), @
 
 ## Quote 
 
-##### "Fighting with yourself rather than winning the battle Winning is much more valuable. Even if you win the battle now, someday He may lose, but he who wins the fight against himself Because we win forever."
+##### "Сложней всего не быть таким как все" - P.S.7.62
 
 
 <details>
