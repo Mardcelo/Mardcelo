@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Mardcelo&color=green)
 ## Introduction
 
-Average security researcher
+Half-drunk security researcher that is currently working on Quantum, Co-current computing. Software security, firmware security, call it, I looked most of the topic that interests me. 
 
 I would like to thank my mentors @[Gamozolabs](https://github.com/gamozolabs), @[Tandasat](https://github.com/tandasat)
 
