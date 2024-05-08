@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Mardcelo&color=green)
 ## Introduction
 
-Half-drunk security researcher that is currently working on Quantum Physics, Co-current Computing, Software Security, Firmware Security. 
+Half-drunk Security Researcher that is currently working on Quantum/Co-current Computing, Software Security, Firmware Security. 
 Call it, I looked most of the topic that interests me. 
 
 I would like to thank my mentors @[Gamozolabs](https://github.com/gamozolabs), @[Tandasat](https://github.com/tandasat)
