@@ -4,6 +4,7 @@
 ## Introduction
 
 Half-drunk Security Researcher that is currently working on Quantum/Co-current Computing, Software Development/Security, Firmware Security. 
+
 Call it, I looked most of the topic that interests me. 
 
 Im mostly working on Compiler Design, and Fuzzing some random stuffs that I can find on my house. 
