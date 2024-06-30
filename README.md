@@ -7,7 +7,7 @@ Half-drunk Security Researcher that is currently working on Quantum/Co-current C
 
 Call it, I looked most of the topic that interests me. 
 
-Im mostly working on Compiler Design, and Fuzzing some random stuffs that I can find on my house. 
+Im mostly working on Compiler Design, Optimization, and Fuzzing some random stuffs that I can find on my house. 
 
 I would like to thank my mentors @[Gamozolabs](https://github.com/gamozolabs), @[Tandasat](https://github.com/tandasat)
 
@@ -22,6 +22,7 @@ I would like to thank my mentors @[Gamozolabs](https://github.com/gamozolabs), @
 <details>
   <summary>Mates</summary>
 
+They are way better than having a girlfriend to be honest
 - [0xAanon](https://github.com/yesmanno/) 
 - [Snowcrash](https://github.com/snowcra5h/) 
 - [Nop](https://github.com/nop-tech/) 
