@@ -13,12 +13,6 @@ I would like to thank my mentors @[Gamozolabs](https://github.com/gamozolabs), @
 
 
 
-
-## Quote 
-
-##### "Сложней всего не быть таким как все" - P.S.7.62
-
-
 <details>
   <summary>Mates</summary>
 
