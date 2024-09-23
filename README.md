@@ -12,7 +12,7 @@ Im mostly working on Compiler Design, Optimization, and Fuzzing some random stuf
 I would like to thank my mentors @[Gamozolabs](https://github.com/gamozolabs), @[Tandasat](https://github.com/tandasat)
 
 
-
+Profile by Ian Zhang
 <details>
   <summary>Mates</summary>
 
@@ -31,4 +31,3 @@ They are way better than having a girlfriend to be honest
 - [Xephora](https://github.com/xephora/)
 - [Kozmer](https://github.com/kozmer/)
 - [Jazzzooo](https://github.com/jazzzooo/)  
-
