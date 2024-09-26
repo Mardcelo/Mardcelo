@@ -18,7 +18,7 @@ Profile by Ian Zhang
 
 They are way better than having a girlfriend to be honest
 - [0xAanon](https://github.com/yesmanno/) 
-- [Snowcrash](https://github.com/snowcra5h/) 
+- [Snowcrash](https://github.com/7etsuo) 
 - [Nop](https://github.com/nop-tech/) 
 - [Thorn](https://github.com/GuildedThorn/)
 - [Bakki](https://github.com/shubakki/)
