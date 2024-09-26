@@ -8,7 +8,7 @@ Half-drunk Security Researcher that is currently working on Quantum/Co-current C
 Call it, I looked most of the topic that interests me. 
 
 Im mostly working on Compiler Design, Optimization, and Fuzzing some random stuffs that I can find on my house. My publications can be found at 
-https://blog.mard.kr/publications
+https://blog.mard.kr/pubs
 
 I would like to thank my mentors @[Gamozolabs](https://github.com/gamozolabs), @[Tandasat](https://github.com/tandasat)
 
