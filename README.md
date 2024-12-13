@@ -18,7 +18,7 @@ Profile by Ian Zhang
   <summary>Mates</summary>
 
 They are way better than having a girlfriend to be honest
-- [0xAanon](https://github.com/yesmanno/) 
+- [0xAamon](https://github.com/yesmanno/) 
 - [Snowcrash](https://github.com/7etsuo) 
 - [nop](https://github.com/nop-tech/) 
 - [Thorn](https://github.com/GuildedThorn/)
