@@ -23,7 +23,7 @@ They are way better than having a girlfriend to be honest
 - [nop](https://github.com/nop-tech/) 
 - [Thorn](https://github.com/GuildedThorn/)
 - [Bakki](https://github.com/shubakki/)
-- [Niko](https://github.com/sleepingniko)
+- [Niko](https://github.com/nikosecurity)
 - [tr3sp4ss3r](https://github.com/tr3sp4ss3rexe/)
 - [Shelldon](https://github.com/Sh3lldon/)
 - [Nanaisu](https://github.com/Sq00ky/)
