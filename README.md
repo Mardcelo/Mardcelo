@@ -12,6 +12,10 @@ https://blog.mard.kr/pubs
 
 I would like to thank my mentors @[Gamozolabs](https://github.com/gamozolabs), @[Tandasat](https://github.com/tandasat)
 
+CTF 
+ApocolypseCTF 2024 - 110th place 
+IrisCTF 2025 - 124th place 
+TUCTF 2024 (Postponed to 2025) - 16th place (6th place on Open category) 
 
 Profile by Ian Zhang
 <details>
