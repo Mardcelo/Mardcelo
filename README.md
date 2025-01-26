@@ -17,6 +17,12 @@ ApocolypseCTF 2024 - 110th place
 IrisCTF 2025 - 124th place 
 TUCTF 2024 (Postponed to 2025) - 16th place (6th place on Open category) 
 
+|             CTF             |        Place       |
+| --------------------------- | ------------------ |
+| Apocolypse CTF              |        110th       |
+| IrisCTF                     |        124th       |
+| TUCTF 2024 (Postponed 2025) | 16th (6th in Open) |
+
 Profile by Ian Zhang
 <details>
   <summary>Mates</summary>
