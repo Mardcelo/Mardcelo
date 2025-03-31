@@ -42,6 +42,7 @@ https://blog.mard.kr/pubs
 
 I would like to thank my mentors @[Gamozolabs](https://github.com/gamozolabs), @[Tandasat](https://github.com/tandasat)
  
+I'm also currently playing CTF with @Frog Council, @RubiyaLab, @MardLab 
 
 |             CTF             |        Place       |
 | --------------------------- | ------------------ |
