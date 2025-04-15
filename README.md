@@ -33,16 +33,16 @@
 ![](https://komarev.com/ghpvc/?username=Mardcelo&color=green)
 ## Introduction
 
-Half-drunk Security Researcher that is currently working on Quantum/Co-current Computing, Software Development/Security, Firmware Security. Kali Linux Contributer.
+Half-drunk Security Researcher that is currently working on Quantum/Co-current Computing, Software Development/Security, Cryptography.
 
 Call it, I looked most of the topic that interests me. 
 
-Im mostly working on Compiler Design, Optimization, and Fuzzing some random stuffs that I can find on my house. My publications can be found at 
-https://blog.mard.kr/pubs
+Im mostly working on Compiler development, and Cryptography. My publications can be found at 
+https://blog.mard.kr/pubs. 
 
 I would like to thank my mentors @[Gamozolabs](https://github.com/gamozolabs), @[Tandasat](https://github.com/tandasat)
  
-I'm also currently playing CTF with @Frog Council, @RubiyaLab, @MardLab 
+I'm also did contributions in Kali Linux, and currently playing CTF with @Frog Council, @RubiyaLab, @MardLab 
 
 |             CTF             |        Place       |
 | --------------------------- | ------------------ |
