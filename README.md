@@ -46,8 +46,8 @@ I'm also did contributions in Kali Linux, and currently playing CTF with @Frog C
 
 |             CTF             |        Place       |
 | --------------------------- | ------------------ |
-| Apocolypse CTF              |        110th       |
-| IrisCTF                     |        124th       |
+| Grey Cat CTF 2025 (NUS)     |        6th         |
+| NahamCon CTF 2025           |        8th         |
 | TUCTF 2024 (Postponed 2025) | 12th (6th in Open) |
 
 Profile by Ian Zhang
