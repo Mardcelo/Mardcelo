@@ -42,12 +42,13 @@ https://blog.mard.kr/pubs.
 
 I would like to thank my mentors @[Gamozolabs](https://github.com/gamozolabs), @[Tandasat](https://github.com/tandasat)
  
-I'm also did contributions in Kali Linux, and currently playing CTF with @Frog Council, @RubiyaLab, @MardLab 
+I'm also did contributions in Kali Linux, and currently playing CTF with @Frog Council, @RubiyaLab, @ProjectSekai, @MardLab
 
 |             CTF             |        Place       |
 | --------------------------- | ------------------ |
-| Grey Cat CTF 2025 (NUS)     |        6th         |
-| NahamCon CTF 2025           |        8th         |
+| Grey Cat CTF 2025 (NUS)     |        7th         |
+| BYUCTF                      |         5th        |
+| NahamCon CTF 2025           |        9th         |
 | TUCTF 2024 (Postponed 2025) | 12th (6th in Open) |
 
 Profile by Ian Zhang
