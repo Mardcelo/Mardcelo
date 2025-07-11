@@ -33,7 +33,7 @@
 ![](https://komarev.com/ghpvc/?username=Mardcelo&color=green)
 ## Introduction
 
-Half-drunk Security Researcher that is currently working on Quantum/Co-current Computing, Software Development/Security, Cryptography.
+Half-drunk Security Researcher that is currently working on Quantum/Co-current Computing, Software Development/Security, and Cryptography.
 
 Call it, I looked most of the topic that interests me. 
 
@@ -42,7 +42,7 @@ https://blog.mard.kr/pubs.
 
 I would like to thank my mentors @[Gamozolabs](https://github.com/gamozolabs), @[Tandasat](https://github.com/tandasat)
  
-I'm also did contributions in Kali Linux, and currently playing CTF with @Frog Council, @RubiyaLab, @ProjectSekai, @MardLab
+I also did contributions in Kali Linux, and currently playing CTF with @Frog Council, @RubiyaLab, @ProjectSekai, @MardLab
 
 |             CTF             |        Place       |
 | --------------------------- | ------------------ |
