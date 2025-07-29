@@ -48,6 +48,7 @@ I also did contributions in Kali Linux.
 
 |             CTF             |        Place       |
 | --------------------------- | ------------------ |
+| World Wide CTF 2025         |        2nd         |
 | Grey Cat CTF 2025 (NUS)     |        7th         |
 | BYUCTF                      |         5th        |
 | NahamCon CTF 2025           |        9th         |
