@@ -46,14 +46,14 @@ I would like to thank my mentors @[Gamozolabs](https://github.com/gamozolabs), @
  
 I also did contributions in Kali Linux.   
 
-|             CTF             |        Place       |
-| --------------------------- | ------------------ |
-| JustCTF Qualifiers 2025     |         1st        | 
-| World Wide CTF 2025         |        2nd         |
-| Grey Cat CTF 2025 (NUS)     |        7th         |
-| BYUCTF                      |         5th        |
-| NahamCon CTF 2025           |        9th         |
-| TUCTF 2024 (Postponed 2025) | 12th (6th in Open) |
+|             CTF             |            Place           |
+| --------------------------- | -------------------------  |
+| JustCTF Qualifiers 2025     |        1st                 | 
+| World Wide CTF 2025         |        2nd                 |
+| Grey Cat CTF 2025 (NUS)     |        7th + writeup reward|
+| BYUCTF                      |         5th                |
+| NahamCon CTF 2025           |        9th                 |
+| TUCTF 2024 (Postponed 2025) | 12th (6th in Open)         |
 
 Profile by Ian Zhang
 <details>
