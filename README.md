@@ -9,7 +9,7 @@ Call it, I looked most of the topic that interests me.
 Im mostly working on Compiler development, and Cryptography. My publications can be found at 
 https://blog.mard.kr/pubs. 
 
-Currently playing CTF with @Frog Council, @RubiyaLab, @ProjectSekai, @MardLab
+Currently playing CTF with @Frog Council, @RubiyaLab, @ProjectSekai (P1G SEKAI mergers), @MardLab
 
 I would like to thank my mentors @[Gamozolabs](https://github.com/gamozolabs), @[Tandasat](https://github.com/tandasat)
  
