@@ -13,7 +13,7 @@ Currently playing CTF with @Frog Council, @RubiyaLab, @ProjectSekai (P1G SEKAI m
 
 I would like to thank my mentors @[Gamozolabs](https://github.com/gamozolabs), @[Tandasat](https://github.com/tandasat)
  
-I also did contributions in Kali Linux.   
+I also did contributions in Kali Linux at 2022.   
 
 |             CTF             |            Place           |
 | --------------------------- | -------------------------  |
