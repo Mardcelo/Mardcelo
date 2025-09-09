@@ -6,10 +6,9 @@ Half-drunk Security Researcher that is currently working on Quantum/Co-current C
 
 Call it, I looked most of the topic that interests me. 
 
-Im mostly working on Compiler development, and Cryptography. My publications can be found at 
-https://blog.mard.kr/pubs. 
+Im mostly working REDACTED. My publications can be found at https://blog.mard.kr/pubs. 
 
-Currently playing CTF with @Frog Council, @RubiyaLab, @ProjectSekai (P1G SEKAI mergers), @MardLab
+I'm currently playing CTF with @Frog Council, @RubiyaLab, @ProjectSekai (P1G Sekai as Merger).  
 
 I would like to thank my mentors @[Gamozolabs](https://github.com/gamozolabs), @[Tandasat](https://github.com/tandasat)
  
@@ -25,7 +24,8 @@ I also did contributions in Kali Linux at 2022.
 | NahamCon CTF 2025           |        9th                 |
 | TUCTF 2024 (Postponed 2025) | 12th (6th in Open)         |
 
-Profile by Ian Zhang
+Profile by @Offscript
+
 <details>
   <summary>Mates</summary>
 
