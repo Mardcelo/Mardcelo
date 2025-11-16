@@ -16,6 +16,7 @@ I would like to thank my mentors @[Gamozolabs](https://github.com/gamozolabs), @
 
 |             CTF             |            Place           |
 | --------------------------- | -------------------------  |
+| Securinet Finals             |        3rd                |
 | CorCTF 2025                 |       2nd                  |
 | JustCTF Qualifiers 2025     |        1st                 | 
 | World Wide CTF 2025         |        2nd                 |
