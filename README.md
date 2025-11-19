@@ -1,7 +1,11 @@
-<img src="https://raw.githubusercontent.com/Mardcelo/Mardcelo/refs/heads/main/test.png" align="center">
+<div align="center">
 
-I Want Things to Be Beatiful. I forgot things could be beautiful. I forgot it was an option. I had given up hope. 
+I want things to be beautiful.  
+I forgot things could be beautiful.  
+I forgot it was an option.  
+I had given up hope.
 
+</div>
 
 <img
   align="right"
