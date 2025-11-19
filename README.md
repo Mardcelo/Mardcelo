@@ -1,6 +1,4 @@
-<div align="center">
-
-  <h2>Math and I have a love–hate (borderline toxic) relationship.</h2>
+I Want Things to Be Beatiful. 
 
   <br/>
 
