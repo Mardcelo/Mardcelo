@@ -8,8 +8,6 @@ I Want Things to Be Beatiful.
     width="600"
   />
 
-  <br/><br/>
-
   <img
     src="https://count.getloli.com/@Mard%20Counter?name=Mard+Counter&amp;theme=booru-yuyuyui&amp;padding=7&amp;offset=0&amp;align=top&amp;scale=0.5&amp;pixelated=1&amp;darkmode=auto&amp;num=2412"
     alt="Mard's visitor counter"
