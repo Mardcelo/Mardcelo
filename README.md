@@ -9,7 +9,7 @@ I Want Things to Be Beatiful. I forgot things could be beautiful.
 
 <img
   align="left"
-  src="https://count.getloli.com/@Mard Counter?name=Mard+Counter&theme=original-new&padding=7&offset=0&align=top&scale=2&pixelated=1&darkmode=auto&num=2412"
+  src="https://count.getloli.com/@Mard Counter?name=Mard+Counter&theme=original-new&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto&num=2412"
   alt="Mard's visitor counter"
   width="300px"
 />
