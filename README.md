@@ -18,7 +18,7 @@ I had given up hope.
   align="left"
   src="https://count.getloli.com/@Mard Counter?name=Mard+Counter&theme=original-new&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto&num=2412"
   alt="Mard's visitor counter"
-  width="300px"
+  width="350px"
 />
 
 <br clear="both" />
