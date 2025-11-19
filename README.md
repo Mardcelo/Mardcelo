@@ -14,37 +14,3 @@ Also, besides that I also did contributions in Kali Linux at 2022.
 
 I would like to thank my mentors @[Gamozolabs](https://github.com/gamozolabs), @[Tandasat](https://github.com/tandasat) 
 
-|             CTF             |            Place           |
-| --------------------------- | -------------------------  |
-| Securinet Finals             |        3rd                |
-| CorCTF 2025                 |       2nd                  |
-| JustCTF Qualifiers 2025     |        1st                 | 
-| World Wide CTF 2025         |        2nd                 |
-| Grey Cat CTF 2025 (NUS)     |        7th + writeup reward|
-| BYUCTF                      |         5th                |
-| NahamCon CTF 2025           |        9th                 |
-| TUCTF 2024 (Postponed 2025) | 12th (6th in Open)         |
-
-Profile by @Offscript
-
-<details>
-  <summary>Mates</summary>
-
-They are way better than having a girlfriend to be honest
-- [0xAamon](https://github.com/yesmanno/) 
-- [Snowcrash](https://github.com/7etsuo) 
-- [nop](https://github.com/nop-tech/) 
-- [Thorn](https://github.com/GuildedThorn/)
-- [Bakki](https://github.com/shubakki/)
-- [Niko](https://github.com/nikosecurity)
-- [tr3sp4ss3r](https://github.com/tr3sp4ss3rexe/)
-- [Shelldon](https://github.com/Sh3lldon/)
-- [Nanaisu](https://github.com/Sq00ky/)
-- [Jord 🐸](https://github.com/iilegacyyii/)
-- [Szymex](https://github.com/szymex73/)
-- [Xephora](https://github.com/xephora/)
-- [Kozmer](https://github.com/kozmer/)
-- [Jazzzooo](https://github.com/jazzzooo/)
-- [yyz]()
-- [S3L33](https://github.com/s3l33)
-- [ShadowKhan]()
