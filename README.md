@@ -16,7 +16,7 @@ I had given up hope.
 
 <img
   align="left"
-  src="https://count.getloli.com/@Mard?name=Mard&theme=rule34&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto&num=2412"
+  src="https://count.getloli.com/@Mard?name=Mard&theme=rule34&padding=1&offset=0&align=center&scale=2&pixelated=1&darkmode=auto&prefix=241"
   alt="Mard's visitor counter"
   width="350px"
 />
