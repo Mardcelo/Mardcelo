@@ -23,4 +23,4 @@ I had given up hope.
 
 <br clear="both" />
 
-Profile by @offscrambledegg
+Profile inspired by @offscrambledegg
